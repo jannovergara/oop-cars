@@ -3,15 +3,15 @@
 
 int main() {
     Car firstcar;
-    firstcar.SetName("G4");
-    firstcar.SetBrand("Mitsubishi");
-    firstcar.SetModel("Mirage");
-    firstcar.SetPrice(6000000);
-    firstcar.SetColor("blue");
+    firstcar.SetName("Heritage Edition");
+    firstcar.SetBrand("Toyota");
+    firstcar.SetModel("Land Cruiser");
+    firstcar.SetPrice(87745);
+    firstcar.SetColor("white");
     firstcar.SetYearMake(2017);
     firstcar.ToString();
 
-    Car secondcar("Ultraman", "Honda", "Jazz", "red", 2016, 1000000);
+    Car secondcar("Tron", "Audi", "A1", "red", 2016, 83800);
     secondcar.ToString();
     
     return 0;
