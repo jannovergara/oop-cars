@@ -1,5 +1,5 @@
-#ifndef __SEDAN__
-#define __SEDAN__
+#ifndef SEDAN_H
+#define SEDAN_H
 
 #include "Car.hpp"
 

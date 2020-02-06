@@ -1,5 +1,5 @@
-#ifndef __CAR__
-#define __CAR__
+#ifndef CAR_H
+#define CAR_H
 
 #include <iostream>
 
